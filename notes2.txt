@@ -1,0 +1,36 @@
+Today is 9-23-25
+
+class 7: Week 3 Lab
+
+Task == Command Line, file management & GitHub
+Today's Goal == upload sample files to a GitHub repo, using Git Bash (Windows) or Terminal (Mac/Linux)
+
+Upload sample files:
+1. Search for files
+2. Select them & add to folder...lol
+
+Git Bash:
+1. Select Windows button on desktop and type "Git bash" in search bar.
+2. Right click on "Git Bash" and run as administrator
+3. Use "pwd" command to find current location
+4. Change directory with "cd" command
+5. Practice with "pwd", "ls", "mkdir" commands for fluency
+
+
+
+notes:
+- Git Bash (shell) = a program that allows you to interact DIRECTLY with computer/server. It operates on code/specific commands. 
+- Graphical User Interface (GUI) = Human interactive environment
+- Using file explorer, one can organize and navigate stored files.
+- In shell, "pwd" (print working directory) shows your current location in the directory
+- "ls" (list) allows you to view files/folders in directory...mine did not match up
+- "cd" (change directory) [directories have forward slashes after them]
+- "clear" to clear out history
+- "cd .." allows you to go back one directory
+- "cd " (then tab button) allows for auto-complete, in most instances
+- "mkdir " = make directory
+- "touch [name].txt" creates image/file
+- "rm [name].txt" removes image/file
+- git init = initialize github
+- git add = add files to staging area
+- git status = shows status of directory contents
